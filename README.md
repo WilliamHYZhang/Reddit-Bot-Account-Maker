@@ -5,6 +5,8 @@ Reddit Bot Account Maker Documentation by WZCoding
 NOTE:
 *This is a basic bot. Expect it to do basic things. Please don't abuse it*
 
+This bot creates a random username and password, verifies the email, and views the inbox
+
 REQUIREMENTS:
 
 Linux (Ubuntu)
