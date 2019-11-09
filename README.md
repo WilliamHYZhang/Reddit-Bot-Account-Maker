@@ -2,6 +2,9 @@
 
 Reddit Bot Account Maker Documentation by WZCoding
 
+
+TODO: I will be working on an API wrapper for this and updating/optimizing the code for this soon, be on the lookout.
+
 NOTE:
 *This is a basic bot. Expect it to do basic things. Please don't abuse it*
 
