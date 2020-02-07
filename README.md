@@ -1,6 +1,6 @@
 # Reddit-Bot-Account-Maker
 
-Reddit Bot Account Maker Documentation by WZCoding
+Reddit Bot Account Maker Documentation
 
 
 TODO: I will be working on an API wrapper for this and updating/optimizing the code for this soon, be on the lookout.
