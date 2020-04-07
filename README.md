@@ -3,7 +3,7 @@
 Reddit Bot Account Maker Documentation
 
 
-TODO: I will be working on an API wrapper for this and updating/optimizing the code for this soon, be on the lookout. Also I wrote this a while back, so the code is not up to my standards anymore. But it worked ¯\_(ツ)_/¯
+TODO: I will be working on an API wrapper for this and updating/optimizing the code for this soon, be on the lookout. Also I wrote this a while back, so the code is not up to my standards anymore. Don't use this as a template or anything :joy:
 
 NOTE:
 *This is a basic bot. Expect it to do basic things. Please don't abuse it*
