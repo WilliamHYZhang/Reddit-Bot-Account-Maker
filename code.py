@@ -58,7 +58,7 @@ def createAccount(username, password):
 
 		print('Retreiving email...')
 		emailDriver.get('https://getnada.com')
-		email = emailDriver.find_element_by_xpath('/html/body/div/div[2]/div[2]/div[1]/div[2]/div/div[1]/h1/span[2]').text
+		email = emailDriver.find_element_by_xpath('/html/body/div/div/div/div/div[2]/div/div[1]/div/div/p/span[1]/a/button').text
 
 		print('Entering email...')
 		driver.find_element_by_id('email_reg').send_keys(email)

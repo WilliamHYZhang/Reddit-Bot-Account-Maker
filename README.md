@@ -21,10 +21,9 @@ Firefox (Ubuntu has Firefox preinstalled)
 2captcha API key (must manually input in code)
 
 Various Libraries (These need to be manually installed)
-1. Selenium CMD: pip3 install selenium
-2. Tor CMD: sudo apt install tor
-3. Requests CMD: pip3 install requests
-4. Names CMD: pip3 install names
+1. requirements.txt: pip3 install -r requirements.txt
+2.  *Debian-based (ubuntu/mint/kali..): sudo apt install tor
+    *Arch-based(manjaro/garuda): sudo pacman -S tor
 
 USAGE:
 
